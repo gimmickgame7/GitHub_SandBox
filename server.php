@@ -1,5 +1,9 @@
 <?php
 
+/*
+サザエでございま〜〜〜〜〜〜す
+*/
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
